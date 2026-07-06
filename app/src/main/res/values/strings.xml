@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TikTok Live Blocker</string>
+    <string name="service_label">TikTok Live Blocker Service</string>
+    <string name="accessibility_description">Memantau aplikasi TikTok dan memblokir akses ke fitur Live Streaming secara otomatis.</string>
+</resources>

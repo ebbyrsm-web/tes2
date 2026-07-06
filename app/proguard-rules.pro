@@ -1,0 +1,4 @@
+-keep class com.blocker.tiktok.** { *; }
+-keep class * extends android.accessibilityservice.AccessibilityService { *; }
+-keep class * extends android.content.BroadcastReceiver { *; }
+-keep class * extends android.app.Service { *; }
